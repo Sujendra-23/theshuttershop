@@ -1,6 +1,6 @@
 # The Shutter Shop — Starter
 
-This is a minimal starter skeleton for The Shutter Shop fullstack app.
+This is a minimal starter skeleton for The Shutter Shop fullstack Website.
 
 Backend:
 - Express + Mongoose (backend/server.js)
