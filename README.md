@@ -1,4 +1,4 @@
-# The Shutter Shop — Starter
+# The Shutter Shop — Ecommerce Website
 
 This is a minimal starter skeleton for The Shutter Shop fullstack Website.
 
