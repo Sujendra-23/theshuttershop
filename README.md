@@ -1,6 +1,5 @@
 # The Shutter Shop — Ecommerce Website
 
-This is a minimal starter skeleton for The Shutter Shop fullstack Website.
 
 Backend:
 - Express + Mongoose (backend/server.js)
@@ -16,7 +15,6 @@ To run:
 3. From project root: `npm run start` (or `npm run start:dev` if using nodemon)
 4. Frontend: `cd frontend && npm install && npm run start` (Vite dev server)
 
-This is intentionally minimal — use as a starting point.
 
 
 
